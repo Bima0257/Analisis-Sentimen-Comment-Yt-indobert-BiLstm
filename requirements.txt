@@ -1,7 +1,7 @@
 streamlit==1.41.1
 pandas==2.2.3
 numpy==1.26.4
-torch==2.5.1
+torch==2.6.0
 transformers==4.48.3
 emoji==2.14.1
 tensorflow-cpu==2.18.0
