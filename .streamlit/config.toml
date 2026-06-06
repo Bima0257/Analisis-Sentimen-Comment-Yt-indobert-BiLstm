@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#1a73e8"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8faff"
+font = "sans serif"
+
+[server]
+maxUploadSize = 50
+maxMessageSize = 200
+
+[runner]
+fastReruns = true
+
+[browser]
+gatherUsageStats = false

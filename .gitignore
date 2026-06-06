@@ -1,0 +1,11 @@
+.env
+data/
+data/*/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Model besar — download otomatis saat runtime via HuggingFace
+models/word2vec/
+models/w11wo-roberta-sentiment/
+models/taufiqdp-indonesian-sentiment/
