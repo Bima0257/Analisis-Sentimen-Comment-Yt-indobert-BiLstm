@@ -127,7 +127,7 @@ with col2:
     )
 with col3:
     max_comments = st.number_input(
-        "📊 Maks. Komentar", min_value=10, max_value=5000, value=500, step=100,
+        "📊 Maks. Komentar", min_value=10, max_value=10000, value=500, step=100,
         help="Batas maksimal komentar yang diambil.",
         disabled=scraping,
     )
